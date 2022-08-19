@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
+
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Signika Negative', sans-serif;
+   background-color: black;
+
+    background-image: url("./images/stars.jpg"),linear-gradient(135deg, rgba(234, 202, 228, 0.792), rgba(229, 163, 225, 0.906));
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Signika Negative', sans-serif;
+}

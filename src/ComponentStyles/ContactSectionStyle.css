@@ -1,0 +1,32 @@
+
+.contact_section{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.contact_heading{
+    color: white;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+
+.email_section input{
+    outline: none;
+    border: none;
+    margin: 5px;
+}
+
+.email_section textarea{
+    border: none;
+}
+
+
+.message-btn{
+   color: white;
+   background-color: purple;
+   padding: 10px;
+   width: 150px;
+}

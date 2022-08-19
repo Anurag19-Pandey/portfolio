@@ -1,0 +1,95 @@
+.skill_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;  
+}
+
+.what_i_know{
+    color: white;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+hr{
+    color: white;
+}
+
+
+.skill_heading{
+    background-color: rgb(133, 6, 133);
+    color: white;
+    border-top-left-radius: 5px 5px;
+    border-top-right-radius: 5px 5px;
+    border-bottom-left-radius: 30px 20px;
+    border-bottom-right-radius: 30px 20px;
+    padding: 30px;
+
+}
+
+.skill_heading:hover{
+    transition: 0.5s;
+    background-color: black;
+}
+
+.skill_container{
+  border: 1px solid #fff;
+}
+
+ul{
+    padding: 0;
+}
+
+.list_content{
+     font-size: larger;
+    color: #fff;
+    opacity: 0.8; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:2px ;
+}
+
+
+
+.list_content:hover{
+    opacity: 1;
+}
+
+.tick,.mongo{
+  color: rgb(29, 215, 29);
+}
+
+.javascript,.express,.node{
+    color: yellow;
+}
+
+.react{
+    color: rgb(69, 155, 212);
+}
+
+.html{
+    color: orange;
+}
+
+.css{
+    color: rgb(120, 193, 229);
+}
+
+.icons{
+    font-size: larger;
+}
+
+@media screen and (max-width:375px){
+    .what_i_know{
+        font-size: 50px;
+    }
+
+}
+
+@media screen and (max-width:320px){
+    .what_i_know{
+        font-size: 40px;
+    }
+}
+
