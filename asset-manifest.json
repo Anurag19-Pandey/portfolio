@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/css/main.49032f14.css",
+    "main.js": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/js/main.98a4b809.js",
+    "static/js/787.c0c124d5.chunk.js": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/js/787.c0c124d5.chunk.js",
+    "static/media/proj2pic3.png": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/media/proj2pic3.53fc41b0c012b712e80e.png",
+    "static/media/proj2pic2.png": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/media/proj2pic2.81b96252f9be076cd195.png",
+    "static/media/proj2pic1.png": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/media/proj2pic1.0cc95869a82c181e7401.png",
+    "static/media/proj1pic2.png": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/media/proj1pic2.44f4a77cb81cd7068249.png",
+    "static/media/proj1pic1.png": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/media/proj1pic1.4100babb99a4a7e05bd0.png",
+    "static/media/proj3pic1.png": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/media/proj3pic1.b9f4dfa2d8394252b61f.png",
+    "static/media/proj1pic3.png": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/media/proj1pic3.041da2defabb1af0493d.png",
+    "static/media/proj3pic2.png": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/media/proj3pic2.386475b32e207a58a528.png",
+    "static/media/anurag.jpg": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/media/anurag.4f58c9a8e78112e90646.jpg",
+    "static/media/proj3pic3.png": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/media/proj3pic3.4be0e0b030f696efe83e.png",
+    "index.html": "https://github.com/Anurag19-Pandey/MyPortfolio.git/index.html",
+    "main.49032f14.css.map": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/css/main.49032f14.css.map",
+    "main.98a4b809.js.map": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/js/main.98a4b809.js.map",
+    "787.c0c124d5.chunk.js.map": "https://github.com/Anurag19-Pandey/MyPortfolio.git/static/js/787.c0c124d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49032f14.css",
+    "static/js/main.98a4b809.js"
+  ]
+}
